@@ -130,8 +130,6 @@
 > 3. 广义函数（奇异函数）
 > 4. 系统类型的判断
 
-
-
 ### 1-1信号的描述
 
 #### 1-1-1连续时间与离散时间信号
@@ -177,7 +175,22 @@
 
 > 对非周期信号，且能量有限，则为能量信号。
 
+##### 1-1-4-1基波周期
 
+- 连续——可视为周期信号，但它的基波周期没有确定的定义。
+- 离散——可以视为周期信号，其基波周期为1。
+
+##### 1-1-4-2奇信号与偶信号
+
+（Odd Signals and Even Signals）
+
+**复信号** ——<img src="%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%EF%BC%88STU%EF%BC%89.assets/image-20200315102436737.png" alt="image-20200315102436737" style="zoom:50%;" /> 
+
+>  **任何信号都能分解**成一个偶信号与一个奇信号之和。
+>
+> <img src="%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%EF%BC%88STU%EF%BC%89.assets/image-20200315102603846.png" alt="image-20200315102603846" style="zoom:50%;" /> <img src="%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%EF%BC%88STU%EF%BC%89.assets/image-20200315102636926.png" alt="image-20200315102636926" style="zoom:50%;" /> 
+
+<img src="%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%EF%BC%88STU%EF%BC%89.assets/image-20200315102744631.png" alt="image-20200315102744631" style="zoom:50%;" /> <img src="%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%EF%BC%88STU%EF%BC%89.assets/image-20200315104447558.png" alt="image-20200315104447558" style="zoom:50%;" /> 
 
 ### 1-2信号的自变量变换
 
